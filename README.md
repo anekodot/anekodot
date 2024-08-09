@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hiya, I'm Anekodot (or just Dot)!<br><br>I'm a 15 year old programmer & Linux systems administrator from the UK.<br><br>I mainly do Minecraft related projects, usually reverse-engineering the game & it's servers.<br><br>Check my pinned for useful stuff!
+
 [![](https://visitcount.itsvg.in/api?id=anekodot&icon=2&color=2)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
